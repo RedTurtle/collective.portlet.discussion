@@ -1,5 +1,6 @@
 # installation artifacts:
 *.pyc
+*.mo
 collective.portlet.discussion.egg-info
 # virtualenv:
 Include
